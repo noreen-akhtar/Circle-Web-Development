@@ -1,0 +1,16 @@
+.first-div{
+    background-color: crimson;
+    position: static;
+}
+.second-div{
+    background-color: cyan;
+    position: absolute;
+}
+.third-div{
+    background-color: darkblue;
+    position: relative;
+}
+.fourth-div{
+    background-color: darkgreen;
+    position: fixed;
+}
