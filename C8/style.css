@@ -1,0 +1,51 @@
+/* apply style specifically on h1 */
+/* h1{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+} */
+
+
+/* apply style on all h and p divs */
+/* *{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+} */
+
+
+/* apply style only on indivisual headings */
+/* h1{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+} 
+
+h3{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+} 
+
+h4{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+} 
+
+h5{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+} 
+
+h6{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+}  */
+
+
+/* to avoid repitions for same style we apply like below */
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px yellowgreen;
+}
