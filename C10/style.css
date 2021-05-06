@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+}
+.container{
+    display: grid;
+}
+header{
+    background-color: red;
+}
+.small-box{
+    background-color: red;
+}
+.sidebar{
+    background-color: red;
+}
+.main-content{
+    background-color: red;
+}
+footer{
+    background-color: red;
+}
